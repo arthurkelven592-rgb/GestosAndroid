@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gestos</string>
+    <string name="accessibility_description">Executa ações solicitadas pela pessoa usuária, como Voltar e toques por gestos.</string>
+</resources>
